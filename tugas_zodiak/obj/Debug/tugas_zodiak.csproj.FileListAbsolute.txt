@@ -1,0 +1,10 @@
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\bin\Debug\tugas_zodiak.exe.config
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.csprojResolveAssemblyReference.cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.Form1.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.Properties.Resources.resources
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.csproj.GenerateResource.Cache
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\bin\Debug\tugas_zodiak.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\bin\Debug\tugas_zodiak.pdb
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.exe
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.pdb
+D:\Program\C#\Tugas_Kalkulator\Tugas_Nilai_zodiak\zodiak\tugas_zodiak\tugas_zodiak\obj\Debug\tugas_zodiak.Form2.resources
